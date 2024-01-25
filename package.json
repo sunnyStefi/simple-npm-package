@@ -1,0 +1,22 @@
+{
+  "name": "is-simple",
+  "version": "1.0.0",
+  "description": "returns true if the input string is simple",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunnyStefi/simple-npm-package.git"
+  },
+  "keywords": [
+    "simple"
+  ],
+  "author": "Stefania Pozzi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunnyStefi/simple-npm-package/issues"
+  },
+  "homepage": "https://github.com/sunnyStefi/simple-npm-package#readme"
+}
