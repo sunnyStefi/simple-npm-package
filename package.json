@@ -1,5 +1,5 @@
 {
-  "name": "is-simple",
+  "name": "@stefaniapozzi/is-simple",
   "version": "1.0.0",
   "description": "returns true if the input string is simple",
   "main": "index.js",
